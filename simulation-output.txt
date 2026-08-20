@@ -1,0 +1,23 @@
+================================
+ DIGITAL PASSWORD LOCK TESTBENCH
+================================
+
+Test 1 - Correct Password
+Expected: ACCESS GRANTED
+Actual:   ACCESS GRANTED
+
+Test 2 - Wrong Password
+Expected: ACCESS DENIED
+Actual:   ACCESS DENIED
+
+Test 3 - Wrong Password
+Expected: ACCESS DENIED
+Actual:   ACCESS DENIED
+
+Test 4 - Three Wrong Attempts
+Expected: SYSTEM LOCKED
+Actual:   SYSTEM LOCKED
+
+================================
+       TESTBENCH COMPLETED
+================================
